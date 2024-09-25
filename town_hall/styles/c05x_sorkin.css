@@ -45,7 +45,7 @@ cite {
     text-align: right;
     font-style: normal;
     font-size: 14px;
-    color: gray;
+    color: blue;
 }
 ul {
     list-style: none;
@@ -61,7 +61,7 @@ footer {
     text-align: center;
     margin-top: 30px;
     font-size: 14px;
-    color: gray;
+    color: blue;
 }
 footer p {
     margin: 5px 0;
@@ -69,7 +69,7 @@ footer p {
 /* Specific styling for block elements */
 q {
     font-style: italic;
-    color: gray;
+    color: blue;
 }
 
 
