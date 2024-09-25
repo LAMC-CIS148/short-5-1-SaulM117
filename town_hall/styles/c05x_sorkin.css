@@ -2,8 +2,9 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 font-size: 100%;
 background-color: yellow;
-border: 2px double;
-width: 650px;
+border-width: 650px;
+border-color: blue;
+border-style: double;
 }
 h1 {
   text-align: left;
