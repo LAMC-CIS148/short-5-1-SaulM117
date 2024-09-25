@@ -4,7 +4,7 @@ font-size: 100%;
 background-color: yellow;
 }
 h1 {
-  text-align: center;
+  text-align: left;
   color: blue;
 }
 h2 {
@@ -22,4 +22,5 @@ p {
 footer span {
   font-weight: bold;
 }
+
 
