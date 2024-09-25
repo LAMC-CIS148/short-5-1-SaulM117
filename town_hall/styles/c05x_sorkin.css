@@ -4,6 +4,6 @@ font-size: 100%;
 background-color: yellow;
 width: 650px; /* set width to 650 pixels */
 margin: 0 auto; /* center the body in the browser window */
- border: double 1px blue; /* add a double blue border */
+border: double 1px blue; /* add a double blue border */
 }
 
