@@ -11,15 +11,14 @@ main {
 	p cite { 
 	color: blue;
 	}
+	h2 i { float: left;
+	}
 }
 img {
   float: left;
   margin-right: 20px;
 }
-p {
-  text-align: justify;
-  line-height: 1.5;
-}
+
 
 
 footer span {
