@@ -8,9 +8,10 @@ color: black
 }
 main {
     background-color: white;
-    border-style: double;
+    { border-style: double;
+    color: blue; }
     padding: 20px;
-    width: 600px;
+    width: 650px;
     margin: 0 auto;
     box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
 }
