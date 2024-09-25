@@ -7,8 +7,10 @@ h1 {
   text-align: left;
   color: blue;
 }
-main p {
-  color: blue;
+main {
+	p cite { 
+	color: blue;
+	}
 }
 img {
   float: left;
