@@ -34,6 +34,20 @@ h3 {
   font-size: 115%;
   margin-bottom: 10px;
 }
+p {
+  margin-bottom: 20px;
+}
+
+.citation {
+  text-align: right;
+  margin-bottom: 0.75em;
+}
+
+blockquote {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
 
 
 
