@@ -18,8 +18,8 @@ main {
 
 footer {
   border-top: 2px solid blue;
-  padding-top: 10px;
-  margin-top: 10px;
+  padding-top: 5px;
+  margin-top: 5px;
 }
 
 h1 {
@@ -54,7 +54,6 @@ blockquote {
 ul {
   margin: 20px 0;
   padding: 0;
-  list-style: circle;
 }
 
 li {
