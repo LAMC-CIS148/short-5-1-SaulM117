@@ -55,7 +55,6 @@ blockquote {
 ul {
   margin: 20px 0;
   padding: 0;
-  list-style: none;
 }
 
 li {
@@ -65,6 +64,8 @@ li {
 cite {
   color: blue;
   font-style: normal;
+  float: right;
+  padding: 10px;
 }
 
 img {
