@@ -48,7 +48,31 @@ blockquote {
   padding: 10px;
   border: 1px solid #ccc;
 }
+ul {
+  margin: 20px 0;
+  padding: 0;
+  list-style: none;
+}
 
+li {
+  margin-bottom: 10px;
+}
+
+cite {
+  color: blue;
+  font-style: normal;
+}
+
+img {
+  float: left;
+  margin: 10px 20px 10px 0;
+}
+footer p {
+  font-size: 90%;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px 0;
+}
 
 
 
