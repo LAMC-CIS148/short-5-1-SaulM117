@@ -9,6 +9,9 @@ body {
   padding: 20px;
   box-sizing: border-box;
 }
+.content {
+  border: 2px double blue;
+  padding: 20px;
 main {
   padding: 20px;
 }
