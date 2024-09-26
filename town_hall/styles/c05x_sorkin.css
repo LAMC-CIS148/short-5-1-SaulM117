@@ -62,7 +62,7 @@ li {
 cite {
   color: blue;
   font-style: normal;
-  text-align: right;
+  margin-left: auto;
 }
 img {
   float: left;
