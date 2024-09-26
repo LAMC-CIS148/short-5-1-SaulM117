@@ -5,16 +5,15 @@ body {
   background-color: white;
   width: 650px;
   margin: 0 auto;
-  border: 2px double blue;
-  padding: 20px;
-  box-sizing: border-box;
-}
-.content {
-  border: 2px double blue;
+  border-style:double;
+  border-width:10px;
+  border-color:blue;
+  border-hieght:10px
   padding: 20px;
 }
 main {
   padding: 20px;
+  border-bottom:10px blue;
 }
 
 footer {
