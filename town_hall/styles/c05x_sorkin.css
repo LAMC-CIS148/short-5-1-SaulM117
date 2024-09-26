@@ -53,7 +53,7 @@ blockquote {
   padding: 10px;
 }
 ul {
-  margin: 20px 0;
+  margin: 30px 0;
   padding: 0;
 }
 
@@ -64,6 +64,7 @@ li {
 cite {
   color: blue;
   font-style: normal;
+  float: right;
 }
 
 img {
