@@ -58,12 +58,13 @@ ul {
 }
 
 li {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 cite {
   color: blue;
   font-style: normal;
+  float: right;
 }
 
 img {
