@@ -8,6 +8,32 @@ body {
   border: 2px double blue;
   background-color: white;
 }
+main {
+  padding: 20px;
+}
+
+footer {
+  border-top: 2px solid blue;
+  padding-top: 20px;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 150%;
+  color: blue;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 125%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 115%;
+  margin-bottom: 10px;
+}
 
 
 
