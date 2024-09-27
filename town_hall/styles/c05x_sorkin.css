@@ -30,8 +30,8 @@ h1 {
 
 h2 {
   font-size: 125%;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 h3 {
@@ -63,8 +63,6 @@ cite {
   color: blue;
   font-style: normal;
   float: right;
-  margin-top: 5px;
-  margin-bottom: 5px; 
 }
 img {
   float: left;
